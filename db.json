@@ -2,10 +2,17 @@
   "logs": [
     {
       "id": 2,
-      "message": "HD failure 009",
-      "attention": false,
+      "message": "HD failure 00",
+      "attention": true,
       "tech": "Garry Odmarry",
-      "date": "2020-08-02T07:05:38.492Z"
+      "date": "2020-08-02T07:20:11.870Z"
+    },
+    {
+      "id": 3,
+      "message": "asd",
+      "attention": false,
+      "tech": "Marry Smith",
+      "date": "2020-08-02T07:19:27.781Z"
     }
   ],
   "techs": [
