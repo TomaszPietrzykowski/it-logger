@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 2,
-      "message": "HD failure 008",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-07-31T17:01:33.287Z"
+      "message": "HD failure 009",
+      "attention": false,
+      "tech": "Garry Odmarry",
+      "date": "2020-08-02T07:05:38.492Z"
     }
   ],
   "techs": [
