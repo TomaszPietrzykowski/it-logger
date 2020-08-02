@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 2,
-      "message": "HD failure 00",
+      "message": "HD failure 004",
       "attention": true,
       "tech": "Garry Odmarry",
-      "date": "2020-08-02T07:20:11.870Z"
+      "date": "2020-08-02T07:22:43.888Z"
     },
     {
       "id": 3,
