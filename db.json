@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 2,
-      "message": "HD failure 004",
-      "attention": true,
+      "message": "HD failure 003",
+      "attention": false,
       "tech": "Garry Odmarry",
-      "date": "2020-08-02T07:22:43.888Z"
+      "date": "2020-08-02T08:33:41.260Z"
     },
     {
       "id": 3,
@@ -22,14 +22,9 @@
       "lastName": "Doe"
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Tomasz",
+      "lastName": "Boolean",
+      "id": 2
     }
   ]
 }
